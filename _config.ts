@@ -1,7 +1,9 @@
 import lume from "lume/mod.ts";
+import tailwindcss from "lume/plugins/tailwindcss.ts";
 
 const site = lume();
 
-site.add("static")
+site.use(tailwindcss());
+site.add("static");
 
 export default site;

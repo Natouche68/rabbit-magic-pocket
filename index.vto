@@ -2,16 +2,12 @@
 layout: base.vto
 ---
 
-<h1 style="margin-bottom: 2rem; font-size: 2.5rem; text-align: center">
-  Rabbits' Magic Pocket
-</h1>
+<h1>Rabbits' Magic Pocket</h1>
 
-<p>
-  Card tricks for everyone !
-</p>
+<p>Card tricks for everyone !</p>
 
-<ul>
-  {{ for page of search.pages("tricks") }}
-    <a href="{{ page.url }}"><li>{{ page.title }}</li></a>
+<div>
+  {{ for trick of search.pages("tricks") }}
+    {{ await comp.TrickLink({ trick }) }}
   {{ /for }}
-</ul>
+</div>
