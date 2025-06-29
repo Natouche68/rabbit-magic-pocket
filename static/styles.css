@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+	--white: #eeeeee;
+	--black: #282829;
+	--red: #ff8552;
+	--blue: #258ea6;
+	--dark-blue: #111d4a;
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	font-size: 1.1em;
+
+	margin: 2rem 16%;
+
+	background: var(--white);
+	color: var(--black);
+}
+
+h1 {
+	font-family: "Chewy", sans-serif;
+	letter-spacing: 1.5px;
+}
+
+@media (max-width: 32rem) {
+	body {
+		margin: 2rem 8%;
+	}
+}
