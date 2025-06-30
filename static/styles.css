@@ -22,10 +22,19 @@
 		letter-spacing: 1px;
 	}
 
-	p {
+	p,
+	ul {
 		padding-bottom: 0.5rem;
 		text-align: justify;
 		text-indent: 1rem;
+	}
+
+	li {
+		padding-left: 0.2rem;
+	}
+	li::before {
+		content: "-";
+		padding-right: 0.5rem;
 	}
 
 	.setup {
@@ -39,14 +48,13 @@
 			padding: 0;
 			text-indent: 0;
 		}
-
-		p::before {
-			content: "Setup";
-			display: block;
-			font-family: "Chewy", sans-serif;
-			font-size: 1.3rem;
-			letter-spacing: 1px;
-			color: var(--color-blue);
-		}
+	}
+	.setup::before {
+		content: "Setup";
+		display: block;
+		font-family: "Chewy", sans-serif;
+		font-size: 1.3rem;
+		letter-spacing: 1px;
+		color: var(--color-blue);
 	}
 }

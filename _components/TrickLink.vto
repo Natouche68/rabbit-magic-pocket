@@ -2,7 +2,9 @@
   <div class="text-lg font-medium">
     {{ trick.title }}
   </div>
-  {{ for tag of trick.tags.filter((tag) => tag !== "tricks") }}
-    {{ await comp.TagChip({ tag }) }}
-  {{ /for }}
+  <div class="text-sm">
+    {{ for tag of trick.tags.filter((tag) => tag !== "tricks") }}
+      {{ await comp.TagChip({ tag }) }}
+    {{ /for }}
+  </div>
 </a>
