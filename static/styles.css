@@ -7,8 +7,24 @@
 
 	--color-*: initial;
 	--color-white: #eeeeee;
-	--color-gray: #d5d5d7;
+	--color-gray: #dddddf;
 	--color-black: #282829;
 	--color-red: #ff4b3e;
 	--color-blue: #3e78b2;
+}
+
+.trick {
+	h1 {
+		margin: 0.5rem 0;
+		font-family: "Chewy", sans-serif;
+		font-size: 2rem;
+		color: var(--color-blue);
+		letter-spacing: 1px;
+	}
+
+	p {
+		padding-bottom: 0.4rem;
+		text-align: justify;
+		text-indent: 1rem;
+	}
 }
