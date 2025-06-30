@@ -23,8 +23,30 @@
 	}
 
 	p {
-		padding-bottom: 0.4rem;
+		padding-bottom: 0.5rem;
 		text-align: justify;
 		text-indent: 1rem;
+	}
+
+	.setup {
+		margin: 1rem 0;
+		padding: 0.5rem 1rem;
+		background: var(--color-gray);
+		border-radius: 0.25rem;
+		border-left: 6px solid var(--color-blue);
+
+		p {
+			padding: 0;
+			text-indent: 0;
+		}
+
+		p::before {
+			content: "Setup";
+			display: block;
+			font-family: "Chewy", sans-serif;
+			font-size: 1.3rem;
+			letter-spacing: 1px;
+			color: var(--color-blue);
+		}
 	}
 }
