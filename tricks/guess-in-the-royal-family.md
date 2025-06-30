@@ -5,13 +5,11 @@ tags:
   - no sleight of hand
 ---
 
-::: setup
-
-Prenez tous les rois et toutes les dames d'un jeu et placez les dans l'ordre, du
-bas vers le haut : roi de trèfle, coeur, pique, carreau, dame de trèfle, coeur,
-pique, carreau. Le jeu peut être présenté face visble.
-
-:::
+> [!setup]
+>
+> Prenez tous les rois et toutes les dames d'un jeu et placez les dans l'ordre,
+> du bas vers le haut : roi de trèfle, coeur, pique, carreau, dame de trèfle,
+> coeur, pique, carreau. Le jeu peut être présenté face visble.
 
 Demandez au spectateur de choisir une carte, sans la prendre et de la mémoriser.
 

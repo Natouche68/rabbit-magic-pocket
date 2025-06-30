@@ -37,24 +37,30 @@
 		padding-right: 0.5rem;
 	}
 
-	.setup {
+	.markdown-alert {
 		margin: 1rem 0;
 		padding: 0.5rem 1rem;
 		background: var(--color-gray);
 		border-radius: 0.25rem;
-		border-left: 6px solid var(--color-blue);
+		border-left: 6px solid var(--alert-color);
 
 		p {
 			padding: 0;
 			text-indent: 0;
 		}
 	}
-	.setup::before {
-		content: "Setup";
-		display: block;
+	.markdown-alert-title {
 		font-family: "Chewy", sans-serif;
 		font-size: 1.3rem;
 		letter-spacing: 1px;
-		color: var(--color-blue);
+		color: var(--alert-color);
+	}
+
+	.markdown-alert-setup {
+		--alert-color: var(--color-blue);
+	}
+
+	.markdown-alert-note {
+		--alert-color: #3da60d;
 	}
 }

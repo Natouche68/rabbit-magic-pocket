@@ -6,23 +6,21 @@ tags:
   - no sleight of hand
 ---
 
-::: setup
-
-Ce tour nécessite de préparer, à partir d'un jeu de 52 cartes, un tas, appelé
-spécial, contenant 9 trèfles, l'as de pique, et 15 cartes rouges. Placez un
-joker dans le reste du jeu, puis remettez les deux jeux ensemble en les séparant
-par le deuxième joker. Chaque partie individuelle peut être mélangée.
-
-**Prédictions :** Ce tour nécessite également de préparer les prédictions, sur
-une feuille de papier ou sur téléphone. Les prédictions sont les suivantes :
-
-- Il y a 25 cartes face cachée.
-- Il y a 10 cartes noires.
-- Il n'y a que des trèfles.
-- Sauf l'as de pique. _(Cette dernière peut se placer sur un support différent
-  pour plus de surprise.)_
-
-:::
+> [!setup]
+>
+> Ce tour nécessite de préparer, à partir d'un jeu de 52 cartes, un tas, appelé
+> spécial, contenant 9 trèfles, l'as de pique, et 15 cartes rouges. Placez un
+> joker dans le reste du jeu, puis remettez les deux jeux ensemble en les
+> séparant par le deuxième joker. Chaque partie individuelle peut être mélangée.
+>
+> **Prédictions :** Ce tour nécessite également de préparer les prédictions, sur
+> une feuille de papier ou sur téléphone. Les prédictions sont les suivantes :
+>
+> - Il y a 25 cartes face cachée.
+> - Il y a 10 cartes noires.
+> - Il n'y a que des trèfles.
+> - Sauf l'as de pique. _(Cette dernière peut se placer sur un support différent
+>   pour plus de surprise.)_
 
 Etalez le jeu sur la table face visible. Annoncez que vous n'avez pas besoin des
 jokers et retirez-les du jeu, en marquant bien leurs emplacements.

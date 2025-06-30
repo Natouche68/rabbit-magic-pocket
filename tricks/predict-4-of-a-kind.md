@@ -6,17 +6,16 @@ tags:
   - no sleight of hand
 ---
 
-_**Quick note :** We will use the 8s in this example, but you can use whatever
-you want._
+> [!note]
+>
+> We will use the 8s in this example, but you can use whatever you want.
 
-::: setup
-
-Prenez tous les 8 d'un jeu de 52 cartes. En tenant le jeu face visible, placez
-un 8 en-dessous. Puis retirez 7 cartes du dessus, mettez deux 8, et replacez les
-7 cartes. Enfin, placez le dernier 8 n'importe où dans le jeu. Ce dernier peut
-être présenté face visble.
-
-:::
+> [!setup]
+>
+> Prenez tous les 8 d'un jeu de 52 cartes. En tenant le jeu face visible, placez
+> un 8 en-dessous. Puis retirez 7 cartes du dessus, mettez deux 8, et replacez
+> les 7 cartes. Enfin, placez le dernier 8 n'importe où dans le jeu. Ce dernier
+> peut être présenté face visble.
 
 Dîtes que vous allez faire une prédiction et prenez le 8 placé aléatoirement
 pour le poser face cachée sur la table.

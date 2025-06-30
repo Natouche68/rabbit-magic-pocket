@@ -5,13 +5,11 @@ tags:
   - no sleight of hand
 ---
 
-::: setup
-
-Prenez une carte au hasard dans le jeu, et trouvez sa paire (même valeur et même
-couleur). Commencez 2 piles avec ces cartes. Répétez ceci avec toutes les cartes
-du jeu en les mettant chacune dans une des 2 piles.
-
-:::
+> [!setup]
+>
+> Prenez une carte au hasard dans le jeu, et trouvez sa paire (même valeur et
+> même couleur). Commencez 2 piles avec ces cartes. Répétez ceci avec toutes les
+> cartes du jeu en les mettant chacune dans une des 2 piles.
 
 Vous pouvez commencer par couper le jeu. Puis, dîtes que vous avez besoin
 "d'assistantes" et sortez les dames rouges du jeu.

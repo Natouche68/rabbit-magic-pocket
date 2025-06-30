@@ -1,12 +1,12 @@
 import lume from "lume/mod.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
-import container from "npm:markdown-it-container";
+import { alert } from "npm:@mdit/plugin-alert";
 
-const markdown = {
-	plugins: [[container, "setup"]],
-};
+const site = lume();
 
-const site = lume({}, { markdown });
+site.hooks.addMarkdownItPlugin(alert, {
+	alertNames: ["important", "note", "tip", "warning", "caution", "setup"],
+});
 
 site.use(tailwindcss());
 site.add("static");

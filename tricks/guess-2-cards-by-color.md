@@ -5,13 +5,11 @@ tags:
   - no sleight of hand
 ---
 
-:::setup
-
-Ce tour nécessite de préparer un jeu avec un nombre de cartes pair alternant
-entre une carte rouge et une carte noire. Le jeu ne doit pas être montré face
-visible.
-
-:::
+> [!setup]
+>
+> Ce tour nécessite de préparer un jeu avec un nombre de cartes pair alternant
+> entre une carte rouge et une carte noire. Le jeu ne doit pas être montré face
+> visible.
 
 Vous pouvez commencez par donner l'impression de mélanger en coupant le jeu.
 
