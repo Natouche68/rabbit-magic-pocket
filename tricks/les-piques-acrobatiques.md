@@ -1,8 +1,9 @@
 ---
 title: Les piques acrobatiques
+tags:
+  - impromptu
+  - 52 cards
 ---
-
-# Les piques acrobatiques
 
 Ce tour nécessite un jeu de **52** cartes, avec l'as, le roi, la dame et le
 valet de pique, sans joker, que le spectateur peut mélanger.

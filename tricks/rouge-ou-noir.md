@@ -1,8 +1,9 @@
 ---
 title: Rouge ou noir ?
+tags:
+  - impromptu
+  - no sleight of hand
 ---
-
-# Rouge ou noir ?
 
 Ce tour nécessite un jeu assez grand, sans joker, que le spectateur peut
 mélanger.

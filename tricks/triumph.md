@@ -1,8 +1,9 @@
 ---
 title: Triumph
+tags:
+  - impromptu
+  - 52 cards
 ---
-
-# Triumph
 
 Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut
 mélanger.
