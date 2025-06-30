@@ -2,11 +2,19 @@
 layout: base.vto
 ---
 
-<h1>Rabbits' Magic Pocket</h1>
+<h1 class="font-title text-4xl text-center tracking-wider">
+  Rabbits' Magic Pocket
+</h1>
 
-<p>Card tricks for everyone !</p>
+<p class="py-2 font-bold text-lg text-center italic text-blue">
+  Card tricks for everyone !
+</p>
 
-<div>
+<h2 class="font-title text-3xl tracking-wide">
+  Tricks
+</h2>
+
+<div class="my-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
   {{ for trick of search.pages("tricks") }}
     {{ await comp.TrickLink({ trick }) }}
   {{ /for }}
