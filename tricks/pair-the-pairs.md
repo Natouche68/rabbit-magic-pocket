@@ -7,25 +7,22 @@ tags:
 
 > [!setup]
 >
-> Ce tour nécessite de préparer 2 tas de même taille et de signes différents, au
-> préférable de couleurs différentes également. Chaque tas devra présenter un
-> seul signe, et des valeurs ordonnées dans l'ordre croissant. Les 2 jeux
-> peuvent être présentés face visble.
+> This trick needs 2 piles of the same size but of different suits, preferably
+> different colors too. Arrange them in ascending order of value. You can show
+> them face-up.
 
-Placez un des 2 tas sur le deuxième. Vous pouvez "mélanger" le jeu en le
-coupant. Il est important de ne pas rompre la séquence des cartes.
+Place a pile on the second one. You can "shuffle" the deck by cutting it. It is
+very important to not disturb the sequence of the cards.
 
-Ensuite, placez la moitié des cartes face cachée sur la table une à une. Posez
-le deuxième tas fache cachée à côté. Les deux tas doivent présenter la même
-séquence mais en ordre inverse.
+Next, deal half the cards on the table. Put the other half next to it. The 2
+piles must present the same sequence but in opposing directions.
 
-Répétez ensuite ces opérations jusqu'à ce qu'il n'y ait plus que 2 cartes :
+Repeat now these operations util there is only one card left :
 
-- Demandez au spectateur de répartir _`n-1`_ échanges entre les deux piles, où
-  _`n`_ est le nombre de cartes dans une pile. _(Un échange consiste à prendre
-  la carte du dessus et à la placer en-dessous.)_
-- Prenez les 2 cartes au-dessus de chaque pile et posez-les ensemble sur la
-  table.
+- Ask the spectator to distribute _`n-1`_ swaps between the 2 piles, where _`n`_
+  is the number of cards in a pile. _(A swap consists of taking the top card and
+  placing it at the bottom)_
+- Take the 2 cards on top of each pile and put them together on the side.
 
-Retournez les 2 dernières cartes, de même valeur. Puis, retournez toutes les
-autres paires, de même valeur également.
+Turn the 2 last cards, which have the same value. You can then slowly reveal all
+the other pairs, of same value each time too.

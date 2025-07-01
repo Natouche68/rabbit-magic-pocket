@@ -5,21 +5,18 @@ tags:
   - 52 cards
 ---
 
-Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut
-mélanger.
+This trick needs **52** cards, which the spectator can shuffle.
 
-Commencez par demander au spectateur de choisir une carte dans le jeu, de la
-prendre et de la mémoriser. Puis, demandez-lui de couper le jeu en 2 tas égaux,
-de la façon la plus précise possible ! Enfin, il peut mettre sa carte en
-sandwhich entre les 2 piles.
+Start by telling the spectator to choose a card, take it, and remeber it. Next,
+ask them to cut the deck in half, as precisly as humanly possible ! This is very
+important ! They can then place their card in between the 2 piles.
 
-Vous pouvez ensuite effectuer des fausses coupes. Puis, demandez au spectateur
-de faire 4 tas sur la table en posant les cartes une à une. Prenez chaque tas,
-demandez si la carte choisie y est, et gardez le bon tas.
+You can do some false cuts if you want. Ask now the spectator to deal 4 piles on
+the table. Take each pile, show it and ask if their selected card is in there.
+If that's the case, keep it and put the rest away.
 
-Puis, redemandez au spectateur de faire 4 tas face cachée. Dîtes maintenant que
-vous allez procéder par élimination.
+Next, ask again the spectator to deal 4 piles face-down. Say you will now
+proceed by elimination.
 
-Enlevez le tas avec 4 cartes. Puis gardez la carte au centre de chaque tas
-restant, et enfin prenez celle au milieu parmi les 3 dernières : il s'agit de la
-carte du spectateur.
+Put away the pile with 4 cards. Keep then the card in the center of each
+remaining pile. The spectator's card is always the middle one.

@@ -6,21 +6,19 @@ tags:
 
 > [!setup]
 >
-> Ce tour nécessite de préparer un jeu avec un nombre de cartes pair alternant
-> entre une carte rouge et une carte noire. Le jeu ne doit pas être montré face
-> visible.
+> For this trick, you need to setup the deck in alternating colors. You can't
+> show it face-up.
 
-Vous pouvez commencez par donner l'impression de mélanger en coupant le jeu.
+You can start by giving the deck a few cuts.
 
-Faîtes ensuite défiler votre doigt sur le jeu, et demandez au spectateur de dire
-"stop". A ce moment, coupez le jeu, prenez les 2 cartes du haut et demandez au
-spectateur de mémoriser ces cartes _(une rouge et une noire)_.
+Next, riffle the cards and ask the spectator to say "stop". Wherever they say
+"stop", split the deck, take the 2 cards on top of 1 pile and ask the spectator
+to remember these cards _(1 red and 1 black)_.
 
-En les replaçant dans le jeu, faîtes bien attention à inverser l'ordre dans
-lequel vous avez pris les cartes.
+When you put them back in the deck, make sure to change the order in which you
+took them !
 
-Vous pouvez à nouveau "mélanger" le jeu en le coupant.
+You can now "suffle" the deck by cutting it.
 
-Enfin, répartissez les cartes en 2 tas sur la table en alternant entre le tas de
-gauche et de droite. Retournez les tas, les cartes de couleur différentes seront
-les cartes du spectateur.
+Finallly, deal 2 piles on the table, and slowly reveal them face-up. The only
+cards which will have a different color will be the spectator's selected card.
