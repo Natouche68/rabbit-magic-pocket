@@ -3,6 +3,7 @@ title: Les piques acrobatiques
 tags:
   - impromptu
   - 52 cards
+  - sleight of hand
 ---
 
 Ce tour nécessite un jeu de **52** cartes, avec l'as, le roi, la dame et le

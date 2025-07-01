@@ -3,7 +3,6 @@ title: Predict 4 of a kind
 tags:
   - with setup
   - 52 cards
-  - no sleight of hand
 ---
 
 > [!note]

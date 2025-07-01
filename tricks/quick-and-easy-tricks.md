@@ -2,6 +2,7 @@
 title: Quick and easy tricks
 tags:
   - impromptu
+  - sleight of hand
 ---
 
 These tricks are so simple that all of them fit in a single guide !

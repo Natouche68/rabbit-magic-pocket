@@ -3,6 +3,7 @@ title: Transform the spectator's card
 tags:
   - impromptu
   - 52 cards
+  - sleight of hand
 ---
 
 Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut

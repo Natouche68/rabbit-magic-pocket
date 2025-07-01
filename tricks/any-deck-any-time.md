@@ -2,7 +2,7 @@
 title: Any deck, any time
 tags:
   - impromptu
-  -
+  - sleight of hand
 ---
 
 Ce tour nécessite n'importe quelle taille de jeu, que le spectateur peut
@@ -15,9 +15,9 @@ retournez ce paquet et remettez-le entre les 2 autres.
 Demander au spectateur de couper le jeu environ à la moitié. Vous pouvez
 vérifier que le mélange est bon en voyant que la carte coupée est face visible.
 
-Faîtes ensuite un \emph{riffle shuffle}, et retournez le jeu. Montrez le jeu
-mélangé au spectateur et cherchez la première carte face cachée après une grosse
-portion de cartes face visble. Il s'agit de la carte du spectateur.
+Faîtes ensuite un _riffle shuffle_, et retournez le jeu. Montrez le jeu mélangé
+au spectateur et cherchez la première carte face cachée après une grosse portion
+de cartes face visble. Il s'agit de la carte du spectateur.
 
 > [!note]
 >

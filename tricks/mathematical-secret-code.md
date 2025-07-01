@@ -2,7 +2,6 @@
 title: Mathematical secret code
 tags:
   - impromptu
-  - no sleight of hand
   - mathematical
 ---
 

@@ -2,7 +2,6 @@
 title: Guess in the royal family
 tags:
   - with setup
-  - no sleight of hand
 ---
 
 > [!setup]

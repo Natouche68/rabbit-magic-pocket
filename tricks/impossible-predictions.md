@@ -3,7 +3,6 @@ title: Impossible predictions
 tags:
   - with setup
   - 52 cards
-  - no sleight of hand
 ---
 
 > [!setup]

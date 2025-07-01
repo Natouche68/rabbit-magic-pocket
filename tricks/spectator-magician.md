@@ -2,7 +2,6 @@
 title: Spectator magician
 tags:
   - impromptu
-  - no sleight of hand
   - mathematical
 ---
 

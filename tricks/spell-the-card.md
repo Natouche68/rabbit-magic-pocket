@@ -2,7 +2,6 @@
 title: Spell the card
 tags:
   - impromptu
-  - no sleight of hand
   - mathematical
 ---
 

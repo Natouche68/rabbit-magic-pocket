@@ -2,7 +2,6 @@
 title: Pair the pairs
 tags:
   - with setup
-  - no sleight of hand
   - mathematical
 ---
 

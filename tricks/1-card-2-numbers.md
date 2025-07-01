@@ -2,7 +2,6 @@
 title: 1 card, 2 numbers
 tags:
   - impromptu
-  - no sleight of hand
   - mathematical
 ---
 

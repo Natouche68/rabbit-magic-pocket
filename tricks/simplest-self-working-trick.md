@@ -2,7 +2,6 @@
 title: Simplest self-working trick ever
 tags:
   - impromptu
-  - no sleight of hand
   - mathematical
 ---
 

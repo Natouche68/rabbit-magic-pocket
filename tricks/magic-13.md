@@ -3,7 +3,6 @@ title: Magic 13
 tags:
   - impromptu
   - 52 cards
-  - no sleight of hand
   - mathematical
 ---
 

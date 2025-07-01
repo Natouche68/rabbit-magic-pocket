@@ -3,7 +3,6 @@ title: Center card
 tags:
   - impromptu
   - 52 cards
-  - no sleight of hand
 ---
 
 Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut

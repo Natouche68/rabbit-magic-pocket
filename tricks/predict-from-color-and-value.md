@@ -2,6 +2,7 @@
 title: Predict from color and value
 tags:
   - impromptu
+  - sleight of hand
 ---
 
 Ce tour ne nécessite aucun nombre de cartes particulier, et le spectateur peut

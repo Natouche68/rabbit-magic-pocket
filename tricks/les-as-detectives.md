@@ -2,7 +2,6 @@
 title: Les as détectives
 tags:
   - with setup
-  - no sleight of hand
 ---
 
 > [!setup]

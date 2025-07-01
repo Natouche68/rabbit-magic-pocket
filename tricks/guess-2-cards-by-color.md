@@ -2,7 +2,6 @@
 title: Guess 2 cards by their colors
 tags:
   - with setup
-  - no sleight of hand
 ---
 
 > [!setup]

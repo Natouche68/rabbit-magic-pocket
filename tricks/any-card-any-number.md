@@ -3,6 +3,7 @@ title: Any card any number
 tags:
   - impromptu
   - 52 cards
+  - sleight of hand
   - mathematical
 ---
 

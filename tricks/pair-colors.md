@@ -2,7 +2,6 @@
 title: Pair colors
 tags:
   - with setup
-  - no sleight of hand
   - mathematical
 ---
 

@@ -1,9 +1,8 @@
 ---
-title: Math trick for 2 magical spectators
+title: Math trick for 2 spectators
 tags:
   - impromptu
   - 52 cards
-  - no sleight of hand
   - mathematical
   - multiple spectators
 ---

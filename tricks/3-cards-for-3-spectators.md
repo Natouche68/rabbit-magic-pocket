@@ -3,7 +3,6 @@ title: 3 cards for 3 spectators
 tags:
   - impromptu
   - 52 cards
-  - no sleight of hand
   - mathematical
   - multiple spectators
 ---
