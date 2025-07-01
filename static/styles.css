@@ -37,6 +37,21 @@
 		padding-right: 0.5rem;
 	}
 
+	table {
+		margin: 0 auto 0.5rem auto;
+		width: 80%;
+		table-layout: fixed;
+
+		thead {
+			background: var(--color-gray);
+		}
+
+		th,
+		td {
+			border: 2px solid var(--color-blue);
+		}
+	}
+
 	.markdown-alert {
 		margin: 1rem 0;
 		padding: 0.5rem 1rem;

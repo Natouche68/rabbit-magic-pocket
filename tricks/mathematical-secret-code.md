@@ -12,28 +12,21 @@ Commencez par demander au spectateur de choisir une carte et de la mémoriser.
 Vous pouvez ensuite mélanger le jeu.
 
 Pour vous aider, demandez ensuite un nombre entre 1 et 27 et calculez votre code
-à l'aide de ces règles : \begin{table} \begin{center} \label{tab:secret_code1}
-\begin{tabularx}{0.8\textwidth} {
+à l'aide de ces règles : _(where B means BOTTOM, M means MIDDLE, and T means
+TOP)_
 
-> {\centering\arraybackslash}X | >{\centering\arraybackslash}X |
-> {\centering\arraybackslash}X | >{\centering\arraybackslash}X |
-> {\centering\arraybackslash}X | >{\centering\arraybackslash}X |
-> {\centering\arraybackslash}X | >{\centering\arraybackslash}X |
-> {\centering\arraybackslash}X } \textbf{1} & \textbf{2} & \textbf{3} &
-> \textbf{4} & \textbf{5} & \textbf{6} & \textbf{7} & \textbf{8} & \textbf{9}\\
-> \hline B & M & T & B & M & T & B & M & T\\ \hline \multicolumn{3}{c|}{B} &
-> \multicolumn{3}{c|}{M} & \multicolumn{3}{c}{T} \end{tabularx} \caption{En
-> additionnant les chiffres du nombre} \end{center} \end{table}
+**En additionnant les chiffres du nombre :**
 
-\begin{table} \begin{center} \label{tab:secret_code2}
-\begin{tabularx}{0.5\textwidth} { >{\centering\arraybackslash}X |
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  B  |  M  |  T  |  B  |  M  |  T  |  B  |  M  |  T  |
+|  B  |  B  |  B  |  M  |  M  |  M  |  T  |  T  |  T  |
 
-> {\centering\arraybackslash}X | >{\centering\arraybackslash}X } \textbf{1-9} &
-> \textbf{10-18} & \textbf{19-27}\\ \hline B & M & T \end{tabularx} \caption{En
-> prenant le nombre tel quel} \end{center} \end{table}
+**En prenant le nombre tel quel :**
 
-\begin{center} \emph{où B (bottom) veut dire en-dessous, M (middle) au centre,
-et T (top) au-dessus.} \end{center}
+| 1-9 | 10-18 | 19-27 |
+| :-: | :---: | :---: |
+|  B  |   M   |   T   |
 
 Puis, prenez le jeu face cachée et faîtes 3 piles sur la table en posant les
 cartes une à une face visible. Demandez au spectateur dans quel pile se trouve
