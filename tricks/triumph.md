@@ -30,3 +30,7 @@ Pour finir, coupez le jeu au niveau de l'espace naturel dû à la courbure des
 cartes, retournez l'un des paquets et effectuez un _riffle shuffle_ entre les 2,
 mais faîtes bien attention à ne pas montrer l'orientation des cartes au
 spectateur.
+
+## Easier version
+
+Retourner une carte avec la courbure des cartes.
