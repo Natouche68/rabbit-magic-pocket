@@ -2,6 +2,8 @@
 layout: base.vto
 ---
 
+{{ set tricks = search.pages("tricks") }}
+
 <div class="flex flex-col items-center gap-2">
   <img src="/static/logo.png" alt="" class="size-28" />
   <h1 class="font-title text-4xl text-center tracking-wider">
@@ -9,16 +11,19 @@ layout: base.vto
   </h1>
 </div>
 
-<p class="pt-2 pb-4 font-bold text-center italic text-blue">
+<p class="py-2 mb-4 font-bold text-center italic text-blue">
   Card tricks for everyone !
 </p>
 
-<h2 class="font-title text-3xl tracking-wide">
-  Tricks
-</h2>
+<div class="flex flex-row justify-between items-center">
+  <h2 class="font-title text-3xl tracking-wide">
+    Tricks
+  </h2>
+  {{ await comp.RandomButton({ links: tricks.map((t) => t.url) }) }}
+</div>
 
 <div class="my-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-  {{ for trick of search.pages("tricks") }}
+  {{ for trick of tricks }}
     {{ await comp.TrickLink({ trick }) }}
   {{ /for }}
 </div>

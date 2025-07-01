@@ -1,6 +1,7 @@
 import lume from "lume/mod.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import favicon from "lume/plugins/favicon.ts";
+import icons from "lume/plugins/icons.ts";
 import { alert } from "npm:@mdit/plugin-alert";
 
 const site = lume();
@@ -10,6 +11,7 @@ site.hooks.addMarkdownItPlugin(alert, {
 });
 
 site.use(favicon());
+site.use(icons());
 
 site.use(tailwindcss());
 site.add("static");

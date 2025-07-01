@@ -1,0 +1,19 @@
+<button
+  data-links='{{links.join(",")}}'
+  class="p-2 aspect-square bg-gray rounded cursor-pointer"
+  id="random-btn"
+>
+  <img src='{{ "dice-five:bold" |> icon("phosphor") }}' class="size-8" />
+</button>
+
+<script>
+  const randomButton = document.getElementById("random-btn");
+  randomButton.addEventListener("click", () => {
+    const links = randomButton.dataset.links.split(",");
+    const selectedTrick = links[Math.floor(Math.random() * links.length)];
+
+    const a = document.createElement("a");
+    a.setAttribute("href", selectedTrick);
+    a.click();
+  });
+</script>
