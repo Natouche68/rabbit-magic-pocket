@@ -6,23 +6,14 @@ tags:
 
 > [!setup]
 >
-> Prenez une carte au hasard dans le jeu, et trouvez sa paire (même valeur et
-> même couleur). Commencez 2 piles avec ces cartes. Répétez ceci avec toutes les
-> cartes du jeu en les mettant chacune dans une des 2 piles.
+> Take one random carrmd in the deck and find its pair (same value and same color). Start 2 piles with these. Repeat this operation with all cards of the deck.
 
-Vous pouvez commencer par couper le jeu. Puis, dîtes que vous avez besoin
-"d'assistantes" et sortez les dames rouges du jeu.
+You can start by cutting the deck. Next, say you need some "assistants" and take the red queens out of the deck.
 
-Demandez ensuite une carte au spectateur qu'il peut prendre sans regarder, et
-coupez le jeu à l'endroit où se trouvait sa carte.
+Ask now the spectator to choose a card and take it, without seeing it ! Cut the deck where this card was.
 
-Prenez le jeu face cachée et comptez 9 cartes à partir du dessus, placez une des
-2 dames face visible et remettez le jeu ensemble. Faîtes la même chose à partir
-du dessous pour la 2e dame.
+Take the deck face-down and count 9 cards from the top, place one the queen there, and put all the deck back together. Do the same thing from the bottom.
 
-Puis, faîtes 2 piles sur la table en alternant entre gauche et droite. Gardez la
-pile où se trouvent les 2 dames. Répétez cette opération jusqu'à ce qu'il ne
-vous reste que les 2 dames et une autre carte.
+Next, deal 2 piles on the table. Keep the pile where both the queens are. Repeat this operation until there is only the 2 queens and one other card left.
 
-Cette carte et la carte du spectateur forment une paire. Vous pouvez alors
-laisser le spectateur regarder sa carte.
+This card and the spectator's selected card form a pair. They can now see their card.
