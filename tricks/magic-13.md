@@ -6,23 +6,20 @@ tags:
   - mathematical
 ---
 
-Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut
-mélanger.
+This trick needs **52** cards, without joker, which the spectator can shuffle.
 
-Faîtes autant de tas que possible en respectant ces règles :
+Create as much piles as you can while following these rules :
 
-- Posez une carte face cachée sur la table
-- Comptez jusqu'à 13 en partant de cette carte et en posant une carte à chaque
-  nombre. _(Les rois comptent pour 13, les dames pour 12 et les valets pour
-  11.)_
-- Retournez le tas face cachée.
+- Deal one card face-up.
+- Count to 13 starting from the value of the dealed card. _(The kings are valued
+  13, the queens 12 and the jacks 11.)_
+- Flip the whole pile upside-down.
 
-Une fois tous les tas créés, demandez au spectateur de n'en garder que 3.
-Remettez toutes les autres piles dans le jeu.
+Once you created all the piles, ask the spectator to keep only 3 of them. Take
+all the others back in the deck.
 
-Demandez-lui maintenant d'en choisir 2, et retournez la carte au-dessus de ces 2
-tas. Additionnez la valeur de ces 2 cartes, rajoutez 10, et posez ce nombre de
-cartes sur la table.
+Ask them now to pick 2, and show the card on top of these 2 piles. Add the value
+of these cards, add 10, and deal that many cards on the table.
 
-Le nombre de cartes restant dans le jeu correspond à la valeur de la carte
-au-dessus du 3e tas.
+The numbers of cards left in the deck is the value of the top card of the last
+pile.

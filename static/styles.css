@@ -22,6 +22,14 @@
 		letter-spacing: 1px;
 	}
 
+	h2 {
+		margin-top: 0.5rem;
+		font-family: "Chewy", sans-serif;
+		font-size: 1.5rem;
+		color: var(--color-blue);
+		letter-spacing: 1px;
+	}
+
 	p,
 	ul {
 		padding-bottom: 0.5rem;
@@ -77,5 +85,9 @@
 
 	.markdown-alert-note {
 		--alert-color: #3da60d;
+	}
+
+	.markdown-alert-warning {
+		--alert-color: #ebac00;
 	}
 }

@@ -7,22 +7,20 @@ tags:
   - mathematical
 ---
 
-Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut
-mélanger.
+This trick needs **52** cards, without joker, which the spectator can shuffle.
 
-Divisez le jeu en 2 tas de taille égales (26 cartes). Puis, demandez au
-spectateur de couper un des tas, et de choisir une carte dans l'autre tas. Une
-fois qu'il a mémorisé cette carte, il peut la reposer au-dessus du jeu.
+Divide the deck into 2 equal piles (26 cards). Next, ask the spectator to cut
+one the pile, and to choose a card in the other one. Once they have memorized
+it, they can put it back on top.
 
-Mélangez ce jeu de façon à contrôler la carte du spectateur en-dessous. Pour
-ceci, prenez la carte du dessus (celle du spectateur) avec votre pouce dans
-votre deuxième main, puis mettez le reste du jeu par-dessus en petits paquet.
-Répéter le mélange en petits paquets une deuxième fois.
+Shuffle the deck in order to control the spectator's card on the bottom. You can
+for example do an overhand shuffle and peel the top card, which goes then on the
+bottom.
 
-Reposez cette première pile sur le reste de la deuxième pile. Puis, mélangez de
-la façon suivante : prenez la carte en-dessous et au-dessus du paquet avec votre
-pouce et index et posez-les sur la table. Répétez-le pour l'ensemble du jeu.
+Put this pile on what's left of the pile the spectator cut. Next, "shuffle" this
+deck by peeling the bottom and top card and dealing them on the table. Do this
+for the whole deck. The spectator can do it too.
 
-Enfin, comptez le nombre de cartes dans le paquet que le spectateur a coupé.
-Enlevez le nombre correspond de cartes du dessus de l'autre jeu. La carte
-correspond exactement à ce nombre est la carte du spectateur.
+You will now need the help of the cutted packet. Count the number of cards in
+it, and deal the corresponding number of cards of the other deck. The card
+corresponding exactly will be the spectator's selected card.

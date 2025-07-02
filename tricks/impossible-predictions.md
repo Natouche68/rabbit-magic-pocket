@@ -7,37 +7,38 @@ tags:
 
 > [!setup]
 >
-> Ce tour nécessite de préparer, à partir d'un jeu de 52 cartes, un tas, appelé
-> spécial, contenant 9 trèfles, l'as de pique, et 15 cartes rouges. Placez un
-> joker dans le reste du jeu, puis remettez les deux jeux ensemble en les
-> séparant par le deuxième joker. Chaque partie individuelle peut être mélangée.
+> For this trick, you need to prepare, from a deck of 54 cards (52 + 2 jokers),
+> a special packet, containing 9 clubs, the ace of spades, and 15 red cards. Add
+> one joker in what's left of the deck, and put all 2 parts together, seperated
+> by the second joker. Each individual part can be shuffled.
 >
-> **Prédictions :** Ce tour nécessite également de préparer les prédictions, sur
-> une feuille de papier ou sur téléphone. Les prédictions sont les suivantes :
+> **Predictions :** You also need to prepare predictions in advance, on a piece
+> of paper or on your phone :
 >
-> - Il y a 25 cartes face cachée.
-> - Il y a 10 cartes noires.
-> - Il n'y a que des trèfles.
-> - Sauf l'as de pique. _(Cette dernière peut se placer sur un support différent
->   pour plus de surprise.)_
+> - There is 25 face-down cards.
+> - There is 10 black cards.
+> - There is only clubs.
+> - Except the ace of spades. _(This one can be placed on another support for
+>   more surprise.)_
 
-Etalez le jeu sur la table face visible. Annoncez que vous n'avez pas besoin des
-jokers et retirez-les du jeu, en marquant bien leurs emplacements.
+Spread the deck face-up to show the spectator the deck is completely "normal".
+Say you don't need the jokers and take them back, but be careful to note where
+they were !
 
-Formez 2 tas : le tas spécial, et l'autre tas, repéré par la présence d'un
-joker. Donnez le tas spécial au spectateur et demandez-lui de faire comme vous.
+Split it into 2 packets : the special packet and the other one, which you can
+recognize with the presence of a joker. Give the special packet to the spectator
+and ask them to do exactly like you.
 
-Mélangez votre tas comme vous voulez, puis reposez-le. Prenez la moitié du tas
-et posez-le à côté de l'autre tas en le retournant. Mélangez le tas à nouveau.
-Répétez cette opération une deuxième fois.
+Shuffle your deck how you want, and put it on the table. Take approximately half
+of it and put it next to the other's pile and turn it upside-down. Shuffle it
+again. Repeat this operation a second time.
 
-Remettez les deux tas ensemble en retournant l'un des deux.
+Put the 2 parts together, but be sure to flip one of them upside-down !
 
-Puis, étalez le jeu devant vous. Si vous voyez l'as de pique, retournez le jeu.
-Si vous voyez n'importe quel autre pique, vous avez le bon côté.
+Next, spread the deck. If you see the ace of spades, turn the deck over. If you
+see other spades, you're on the right side.
 
-Comptez le nombre de cartes face cachée, correspondant à votre prédiction.
-Ensuite, comptez le nombre de cartes noires, et dîtes qu'il n'y a que des
-trèfles, suivant votre prédiction.
+Reveal your first prediction and count the number of face-down cards. Reveal the
+next one and count the black cards, and say there is only clubs.
 
-Quand un spectateur remarque l'as de pique, dévoilez votre dernière prédiction.
+When a spectator sees the ace of spades, reveal your final prediction.

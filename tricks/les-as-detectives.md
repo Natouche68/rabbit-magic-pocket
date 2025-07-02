@@ -6,16 +6,15 @@ tags:
 
 > [!setup]
 >
-> Prenez les 4 valets et placez les simplement au dessus du jeu face cachée.
+> Take the 4 jacks and place them on top of the deck face-down.
 
-Sortez les 4 as du jeu et placez-les face visible sur la table.
+Take out the 4 aces from the deck and place them face-up on the table.
 
-Faîtes 4 pile en posant les carte une à une. Lorsque le spectateur dit "stop",
-posez un as face visble là où vous vous êtes arrêtés, et continuez à poser des
-cartes sur les 3 piles restantes. Répétez cela jusqu'à ce que vous ayez placé
-les 4 as.
+Deal 4 piles, and when the spectator says "stop", put an ace face-up where you
+were. Continue dealing cards on the other 3 piles. Repeat this until you placed
+all 4 aces.
 
-Puis remettez le jeu ensemble et coupez-le. Si vous tombez sur un as, recoupez.
+Next, put the deck all together and cut it. If you cut on an ace, cut again.
 
-Puis claquez le jeu et étalez-le. Prenez les 4 as et les cartes juste au-dessus
-de ceux-ci. Il s'agit des 4 valets.
+Finally, spread the deck, take the 4 aces and the cards just above them : they
+are the 4 jacks.
