@@ -6,36 +6,32 @@ tags:
 
 > [!setup]
 >
-> Prenez tous les rois et toutes les dames d'un jeu et placez les dans l'ordre,
-> du bas vers le haut : roi de trèfle, coeur, pique, carreau, dame de trèfle,
-> coeur, pique, carreau. Le jeu peut être présenté face visble.
+> Take all the kings and queens from a deck and place them, from bottom to top,
+> in CHaSeD order. So you should have : king of clubs, heart, spades, diamonds,
+> queen of clubs, heart, spades, diamonds. You can show it face-up.
 
-Demandez au spectateur de choisir une carte, sans la prendre et de la mémoriser.
+Ask the spectator to choose a card and to remember it without taking it out.
 
-Puis, prenez le jeu face cachée et faîtes passez dans votre deuxième main les
-cartes en alternant entre une carte à l'intérieur et une carte sortant
-légèrement de votre main.
+Next, take the deck face-down, and in-jog a card in your other hand, out-jog the
+next, in-jog, out-jog...
 
-Prenez les cartes sortant de votre main et montrez les au spectateur. Si la
-carte du spectateur se trouve dans le paquet, placez-le au-dessus. Sinon,
-mettez-le en-dessous.
+Take the out-jogged cards and show them to the spectator. If the spectator's
+card is in there, place it on top, otherwise, place it on the bottom. Repeat
+this operation 3 times.
 
-Répétez l'opération une deuxième fois, mais inversez la règle de placement du
-paquet. Si la carte du spectateur s'y trouve, mettez le paquet en-dessous,
-sinon, au-dessus.
+> [!warning]
+>
+> During the second time, inverse the order in which you put it back. If the
+> card is in there, place it on the bottom, otherwise, on the top. For the third
+> and last time, you can go back to the first rules.
 
-Répétez l'opération une troisième fois, mais revenez aux règles originales.
+Next, deal 2 piles on the table face-down. Turn the whole right pile : it will
+say if the spectator's card is a king or a queen.
 
-Puis, placez les cartes sur la table en 2 tas une à une, en alternant entre
-gauche et droite. Retournez le paquet de droite en annonçant qu'il va montrer si
-la carte est un roi ou une dame.
+Take the left packet and deal it into 2 other piles. Flip the new right packet :
+it will say the color of their card.
 
-Prenez le tas de gauche et replacez les cartes sur la table en 2 tas une à une,
-en alternant entre gauche et droite. Retournez le nouveau paquet de droite en
-annonçant qu'il va montrer la couleur de la carte.
+Shift the top card of the left packet, and turn the other card : it will tell
+the suit of the spectator's card.
 
-Décalez la carte du haut du tas de gauche vers la gauche et retournez l'autre
-carte en annonçant qu'elle montre le signe de la carte du spectateur.
-
-Retournez la toute dernière carte à gauche en disant qu'il s'agit de la carte du
-spectateur.
+Finally, flip the last card : it will be the spectator's selected card.

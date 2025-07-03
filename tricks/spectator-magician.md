@@ -5,17 +5,15 @@ tags:
   - mathematical
 ---
 
-Ce tour nécessite un jeu de **10** cartes, sans joker, que le spectateur peut
-mélanger.
+This trick needs **10** cards, without joker, which the spectator can shuffle.
 
-Demandez au spectateur de prendre le jeu face cachée, de choisir une carte et de
-mémoriser sa position depuis le haut du paquet (le côté le plus proche de vous).
+Ask the spectator to look at the deck face-up, to choose a card and to remember
+its position from the top (the side closer to you).
 
-Il peut vous redonnner le jeu, que vous allez couper, secrètement à la moitié (5
-cartes). Vous pouvez ensuite redonner le jeu à votre spectateur. Il doit faire
-passer tant de cartes du dessus jusqu'au dessous du jeu correspondant à la
-position de sa carte.
+Next, cut the deck after 5 cards and give back the deck to your spectator. They
+have to swap cards from the top to the bottom corresponding to the position of
+their card.
 
-Il va ensuite effectuer un _"duck and a deal"_ : il passe une carte du dessus
-jusqu'au dessous, et il met la carte du dessus sur la table. Il peut répéter
-ceci jusqu'à ce qu'il n'y ait plus qu'une carte : il s'agit de sa carte.
+Finally, they can do a duck and a deal : they swap a card from the top to the
+bottom, and they deal one on the table, they swap a card, they deal one... until
+there is only one card left. It will be the spectator's selected card.
