@@ -7,28 +7,30 @@ tags:
   - multiple spectators
 ---
 
-Ce tour nécessite un jeu de **52** cartes, sans joker, qu'un spectateur peut
-mélanger. Ce tour fonctionne mieux avec 2 spectateurs.
+This trick needs **52** cards, without joker, which the spectator can shuffle.
+It works best with 2 spectators.
 
-Commencez par demander au spectateur 1 de poser des cartes une à une du jeu sur
-la table, et de s'arrêter quand il veut. Vous devez savoir combien de cartes le
-spectateur a posé. S'il s'agit d'un nombre impair, prenez la dernière carte
-posée, montrez la et reposez la, si c'est un nombre pair, montrez la carte au
-dessus du jeu, et posez la sur la table. Remettez le reste du jeu par dessus.
+Start by asking spectator 1 to deal cards on the table and to stop whenever they
+want. You need to know how many cards were dealt. If that's an odd number,
+spectator 1 can remember the last dealt card. If that's an even number, they
+need to remember the card on top of the deck, which you can then deal on the
+table too. They can finally put the rest of the deck on top.
 
-Maintenant, calculez votre nombre clé : prenez le nombre de cartes posées par le
-spectateur et divisez le par 2 (arrondissez à l'entier inférieur si besoin).
-Vous pouvez ensuite répéter la même chose avec le spectateur 2, sans avoir
-besoin de recalculer un nombre repère.
+> [!warning]
+>
+> There must always be an odd number of cards dealt with the spectator's card !
 
-Les 2 spectateurs peuvent ensuite couper le jeu, mais pas le mélanger. Puis,
-demandez leur de faire 2 piles en posant les cartes une à une.
+Now, calculate your key-number : take the number of cards dealt and divide it by
+2 (remove the decimal part if needed). Spectator 2 can then do the same thing,
+but you now don't have to re-calculate a key number.
 
-Prenez la première pile et demandez au spectateur 1 si sa carte s'y trouve. Si
-oui, prenez le nombre de cartes correspondant à votre nombre repère du dessus et
-mettez le en dessous. Sinon, faîtes la même chose avec la 2e pile mais en
-ajoutant 1.
+Both spectators can now cut the deck, but not shuffle it. Next, ask one of them
+to deal 2 piles on the table.
 
-Enfin, vous pouvez demander aux 2 spectateurs de prendre leur pile respective,
-de poser des cartes une à une à côté, et de s'arrêter quand ils voient leur
-carte. Ils verront leurs 2 cartes en même temps.
+Take the first pile and ask spectator 1 if their card is in it. If yes, move
+cards from the top to the bottom of the deck corresponding to your key-number.
+If no, do the same thing with the second pile, but add 1 to your key-number.
+
+Finally, you can ask both spectators to take their respecting pile, to deal the
+top card next to it, and to stop when they see their card. The 2 spectators'
+selected cards will appear at the same time.

@@ -5,33 +5,34 @@ tags:
   - mathematical
 ---
 
-Ce tour nécessite un jeu de **27** cartes, que le spectateur peut mélanger.
+This trick needs **27** cards, which the spectator can shuffle.
 
-Commencez par demander au spectateur de choisir une carte et de la mémoriser.
-Vous pouvez ensuite mélanger le jeu.
+Start by asking the spectator to take a card and memorize it. They can then
+shuffle the deck.
 
-Pour vous aider, demandez ensuite un nombre entre 1 et 27 et calculez votre code
-à l'aide de ces règles : _(where B means BOTTOM, M means MIDDLE, and T means
-TOP)_
+To help you, ask a number between 1 and 27, and calculate your secret code in
+order of the rows following these rules : _(where B means BOTTOM, M means
+MIDDLE, and T means TOP)_
 
-**En additionnant les chiffres du nombre :**
+**By adding the digits of the number :**
 
 |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  B  |  M  |  T  |  B  |  M  |  T  |  B  |  M  |  T  |
 |  B  |  B  |  B  |  M  |  M  |  M  |  T  |  T  |  T  |
 
-**En prenant le nombre tel quel :**
+**With the number as is :**
 
 | 1-9 | 10-18 | 19-27 |
 | :-: | :---: | :---: |
 |  B  |   M   |   T   |
 
-Puis, prenez le jeu face cachée et faîtes 3 piles sur la table en posant les
-cartes une à une face visible. Demandez au spectateur dans quel pile se trouve
-sa carte, et remettez tout le jeu ensemble, en respectant la position de la pile
-du spectateur correspondant au code secret. Répétez cette opération 3 fois en
-prenant la bonne ligne du code précédent.
+Next, take the deck face-**down** and deal 3 piles on the table face-up. Ask the
+spectator in which pile their card is in. While putting the deck back together
+face-**up**, respect the position of the spectator's pile corresponding to your
+secret code. Repeat this operation 3 times by taking the correct row in the
+table.
 
-Enfin, reprenez le jeu face cachée et posez le nombre de carte correspondant au
-nombre du spectateur. La carte correspondant exactement est la carte choisie.
+Finally, take the deck face-**down** and deal cards corresponding to the
+spectator's number. The card corresponding exactly will be the spectator's
+selected card.

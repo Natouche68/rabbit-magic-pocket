@@ -11,27 +11,21 @@ tags:
 
 > [!setup]
 >
-> Prenez tous les 8 d'un jeu de 52 cartes. En tenant le jeu face visible, placez
-> un 8 en-dessous. Puis retirez 7 cartes du dessus, mettez deux 8, et replacez
-> les 7 cartes. Enfin, placez le dernier 8 n'importe où dans le jeu. Ce dernier
-> peut être présenté face visble.
+> Take out all the 8 from a 52 cards deck. With the deck facing up, place an 8
+> at the bottom. Next take out 7 cards from the top, and place two 8 there.
+> Finally, put the last 8 at random in the deck.
 
-Dîtes que vous allez faire une prédiction et prenez le 8 placé aléatoirement
-pour le poser face cachée sur la table.
+Start by making a prediction and take out the random 8 to deal it face-down on
+the table.
 
-Puis, en prenant le tas face visible, placez une à une les cartes sur la table,
-en appuyant le fait que les cartes sont placées au hasard. Une fois que vous
-avez vu les deux 8, dîtes au spectateur qu'il peut dire "stop" quand il veut
-pour couper le jeu.
+Next, with the deck facing-up, deal cards on the table. Once you saw the two 8,
+say to the spectator that he can say "stop" whenever they want to cut the deck.
 
-Ensuite, placez ce tas et le reste du jeu face cachée. Demandez au spectateur
-quel tas regarder, pour lui donner une impression de contrôle, mais dans tous
-les cas, retournez la carte en haut du jeu principal.
+Next, put both piles face-down. Ask the spectator which pile they want to look,
+to give them a sense of control, but in every case, turn the top card of the
+deck.
 
-En voyant que c'est un 8, prenez le tas que le joueur a coupé et placez 8 cartes
-une à une du haut de cette pile à côté.
+Because it is an 8, take the cutted packet face-down and deal 8 cards. Flip the
+top cards of the 2 new created packets.
 
-Retournez la carte en haut de ce tas de 8 cartes et du reste du tas du
-spectateur, qui sont à nouveau des 8.
-
-Revenez à présent à votre prédiction qui est à nouveau un 8.
+You can finally reveal your prediction, which is the final 8.

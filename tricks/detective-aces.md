@@ -1,5 +1,5 @@
 ---
-title: Les as détectives
+title: Detective aces
 tags:
   - with setup
 ---

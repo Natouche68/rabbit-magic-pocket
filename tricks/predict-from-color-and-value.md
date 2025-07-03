@@ -5,37 +5,30 @@ tags:
   - sleight of hand
 ---
 
-Ce tour ne nécessite aucun nombre de cartes particulier, et le spectateur peut
-les mélanger.
+You can use any deck for this trick, which the spectator can shuffle.
 
-Annoncez que vous allez faire une prédiction de la future carte choisie par le
-spectateur. Regardez la première et dernière carte du jeu, et assurez vous
-qu'elles soient de valeur et de signe différents. Si ce n'est pas le cas, coupez
-le jeu et recommencez.
+Start by making a prediction. Look at the first and last card of the deck, and
+be sure that they have a different value and suit. Otherwise, cut the deck.
 
-Cherchez ensuite la carte avec le valeur de la première carte et le signe de la
-dernière. Posez-la face cachée sur la table, il s'agit de la prédiction.
+Now look for the card with the value of the first card and the suit of the last
+card. Put it face-down on the table.
 
-Puis montrez le jeu face cachée au spectateur en lui demandant de choisir une
-carte, mais sans la prendre. Assurez-vous qu'il choisisse une carte vers le
-milieu du jeu, et surtout pas les deux extrêmes.
+Now ask the spectator to choose a card without taking it. Be sure that he
+doesn't choose the top or bottom card. Be sure to note its position, by
+out-jogging it a little for example.
 
-Faîtes dépassez la carte choisie par le spectateur.
+Now take the deck face-up and do this manipulation :
 
-Prenez le jeu face visibles vers vous, et réalisez cette manipulation :
+- Take the part of the deck before the spectator's card and turn it face down.
+- Take the spectator's card with it and flip the whole thing.
+- Flip the part that was below under the spectator's card and place it back, so
+  that the only card facing differently is the spectator's card.
 
-- Prenez la partie du jeu avant la carte choisie, et retournez-la face cachée.
-- Retournez à nouveau la même moitié mais avec la carte choisie.
-- Placez la moitié précédemment sous la carte choisi sur le reste du jeu, pour
-  que tout le jeu soit face visible, sauf la carte choisie.
+It essentially places the previously top and bottom cards next to the chosen
+card.
 
-...ou toute autre manipulation permettant de retourner la carte choisie dans le
-jeu.
+Spread the deck face-down, and take out the spectator's card and the 2 cards
+next to it.
 
-Etalez le jeu face cachée (donc la carte choisie face visible) sur la table.
-
-Prenez la carte choisie, facilement repérable, ainsi que les 2 cartes à côté de
-celle-ci, et annoncez que l'on va en réalité regarder ces cartes.
-
-Dîtes que la carte au-dessus annonce la valeur, et la carte en-dessous le signe.
-Retournez-les, puis la prédiction qui correspond.
+The card above give the value, and the card below the suit. Flip them and show
+finally your prediction.
