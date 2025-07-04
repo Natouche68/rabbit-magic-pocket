@@ -27,9 +27,9 @@ Now, count the number of cards in the packet the spectator cut, and deal that
 many cards from the top of the 25 cards packet. The card corresponding exactly
 will be the spectator selected card.
 
-## Turn a card
+## Turn a card over
 
-For this trick, you can use any dekc, which the spectator can shuffle.
+For this trick, you can use any deck, which the spectator can shuffle.
 
 Start by discretely flipping the 2 bottom cards. Ask now the spectator to choose
 a card, without flashing the 2 bottom ones. While they are memorizing it, flip
@@ -45,52 +45,48 @@ the spectator's selected card.
 
 ## Magical spectator
 
-Ce tour nécessite n'importe quelle taille de jeu, relativement grand, que le
-spectateur peut mélanger.
+You can use any deck for this trick. The spectator can shuffle it.
 
-Commencez par couper le jeu où le spectateur le désire. Puis, en effectuant un
-double lift, montrez la 2e carte en partant du dessus.
+Start by cutting the deck wherever the spectator wants. Next, do a double lift
+to show the second card from the top.
 
-Reposez ces 2 cartes sur le jeu, prenez la carte du dessus (pas celle du
-spectateur), et mettez là n'importe où dans le jeu.
+Place these two cards on top, take the top card (not the spectator's), and put
+it somewhere in the deck.
 
-Faîtes ensuite un mélange, un riffe shuffe par exemple, de façon à contrôler la
-carte choisie au dessus du paquet.
+Now shuffle the deck, with a riffle shuffle for example, in order to control the
+card on top.
 
-Puis, dîtes au spectateur de dire "stop" n'importe où dans le jeu en passant
-votre doigt dessus. Effectuez alors une slip force : prenez la moitié supérieure
-du jeu mais laissez tomber la carte au-dessus (celle du spectateur) sur la
-moitié inférieure, pour donner l'impression qu'elle s'y trouvait.
+Next, ask to spectator to say "stop" while you're riffling the cards. At that
+moment, quicly, do a slip force : take the part on top except the first card and
+let it fall on the rest of the deck. If done correctly, it gives the impression
+the card was there the whole time.
 
-Vous pouvez enfin révéler la carte au spectateur.
+You can finally reveal the spectator's selected card.
 
 ## 3 magical spectators
 
-Ce tour nécessite un jeu de 52 cartes, sans joker, qu'un spectateur peut
-mélanger. Ce tour fonctionne mieux avec 3 spectateurs différents.
+This trick needs **52** cards, without joker, which the spectator can shuffle.
+It works best with 3 spectators.
 
-Une fois qu'un spectateur a mélangé le jeu autant qu'il veut, regardez
-discrètement quelle carte se trouve en dessous de celui-ci.
+Once a spectator shuffled the deck, look quickly at the bottom card and remember
+it.
 
-Ensuite, demandez à un autre spectateur d'étaler les cartes n'importe comment,
-mais arrêtez le relativement tôt et réperez où se trouve la carte du dessous.
+Next, ask another spectator to spread the card like a casino wash, but stop it
+relatively early so you can see where the bottom card is now.
 
-Puis demandez à un spectateur de prendre une carte qu'il pense être la carte que
-vous avez vu sur le dessous. Lorsqu'il la prend du jeu, regardez de quoi il
-s'agit et posez la carte sur le côté. Répétez ceci avec 2 autres spectateurs en
-demandant la carte que vous venez de voir.
+Now ask a spectator to pick the card they believe to be the card you saw on the
+bottom. Of course, they won't really picked it. Look at what card it is, put it
+on the side. Repeat this with 2 others spectators by asking the card you just
+saw.
 
-Enfin, dîtes que vous allez prendre la carte correspondant à ce que le dernier
-spectateur a pris, mais vous allez en réalité prendre la carte du dessous que
-vous avez précédemment repéré.
+Finally, say you will take the card corresponding to what the last spectator
+actually picked, but you will choose the bottom card, the one the first
+spectator supposedly took. You essentially created a loop with a 1-card offset.
 
-Mélangez les cartes mais gardez l'ordre cohérent avec ce que vous avez demandé.
-
-Puis, dévoilez les cartes, qui comme par magie, correspondent à ce que vous avez
-demandé.
+Shuffle the 4 cards but keep the order coherent with what you asked. You can now
+reveal the cards, which seem to correspond exactly.
 
 > [!note]
 >
-> Si un des spectateurs prend la carte du dessous, arrêtez le tour ou commencez
-> une nouvelle "boucle" de façon à avoir un certain nombre de cartes
-> correspondant exactement à la fin.
+> If one of the spectators take the bottom card, stop the trick, or start a new
+> loop if you saw another card in the deck.
