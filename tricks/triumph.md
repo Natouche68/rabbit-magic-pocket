@@ -6,32 +6,54 @@ tags:
   - sleight of hand
 ---
 
-Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut
-mélanger.
+This tricks needs **52** cards, without joker, which the spectator can shuffle.
+Bend the cards a little bit if you feel they're too flat.
 
-Commencez par demander au spectateur de choisir une carte dans le jeu face
-cachée, de la prendre, et de la mémoriser. Reposez-la sur le dessus.
+Start by asking the spectatpr to choose a card, and to remember it. You can put
+it back on the top of the deck.
 
-Faites un _riffle shuffle_ ou des fausses coupes afin de contrôler la carte
-au-dessus du jeu.
+Now do a riffle shuffle or some false cuts to control the card on top.
 
-Puis, coupez le jeu en 2, retournez la moitié du dessous, et effectuez un
-_riffle shuffle_ de façon à ne laisser qu'une seule carte face cachée au-dessus
-(la carte du spectateur). Avant de refermer le jeu, effectuez un _zarrow
-shuffle_ ou toute autre technique de façon à avoir dans le jeu de haut en bas la
-seule carte du spectateur face cachée, la moitié du jeu face visible et l'autre
-moitié face cachée.
+Next, cut the deck in half, turn the top half over and start doing a riffle
+shuffle, while making sure that there is only one single card face-down at the
+top of the deck (the spectator's card). Before squaring the deck, do a zarrow
+shuffle or another technique that allows you to have in the deck, from top to
+bottom : the spectator's card face-down, about half the deck face-up, and the
+rest face-down.
 
-Puis, pour convaincre le spectateur, coupez le jeu au niveau des cartes face
-visible en 2 tas sur la table, recoupez une 2e et une 3e fois en faisant bien
-attention à l'ordre. Remettez le jeu dans le même ordre en montrant les
-différentes orientations des cartes,
+To convince the spectator, cut the deck at a face-up card in 2 packets on the
+table, and cut these packets 2 more times. Get the deck back together in the
+same order you cut it, and show the different directions the cards are facing.
 
-Pour finir, coupez le jeu au niveau de l'espace naturel dû à la courbure des
-cartes, retournez l'un des paquets et effectuez un _riffle shuffle_ entre les 2,
-mais faîtes bien attention à ne pas montrer l'orientation des cartes au
-spectateur.
+Finally, cut the deck at the natural gap due to the cards bending. Flip one of
+the packet and riffle shuffle them back together, while making sure the
+spectator can't see the cards, and give them a final cut.
+
+Now spread the cards, you will see one card facing a different direction : it
+will be the spectator's selected card.
 
 ## Easier version
 
-Retourner une carte avec la courbure des cartes.
+If you can't do a zarrow shuffle or want something simpler, you can do this
+version of the Triumph trick.
+
+For this version, you can use any deck, which the spectator can shuffle. Bend
+the cards a little bit if you feel they're too flat.
+
+Start by asking the spectator to pick a card and memorize it. Place it on the
+bottom of the deck face-down.
+
+Next, with the deck face-down, take a small packet of cards in your second hand
+and flip them. Take another packet and flip the whole thing. Repeat this until
+you arrive at the last card (the spectator's card). Put it face-down on face-up
+cards.
+
+Show the deck to the spectator, and the different directions the cards are
+facing. In reality, there are only 2 parts in the deck, separated by a little
+gap due to the cards bending.
+
+Cut the deck at this little gap and flip one of the half on the other, in order
+to place the spectator's card at the middle.
+
+You can finally spread the cards. The only card facing a different direction
+will be the spectator's selected card.
