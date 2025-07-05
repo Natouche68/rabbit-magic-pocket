@@ -1,5 +1,6 @@
 ---
 title: Mathematical secret code
+date: 2025-06-23
 tags:
   - impromptu
   - mathematical

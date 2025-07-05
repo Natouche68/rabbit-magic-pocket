@@ -1,5 +1,6 @@
 ---
 title: Math trick for 2 spectators
+date: 2025-06-30
 tags:
   - impromptu
   - 52 cards

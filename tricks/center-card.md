@@ -1,5 +1,6 @@
 ---
 title: Center card
+date: 2025-06-13
 tags:
   - impromptu
   - 52 cards

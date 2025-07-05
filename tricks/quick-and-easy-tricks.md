@@ -1,5 +1,6 @@
 ---
 title: Quick and easy tricks
+date: 2025-06-24
 tags:
   - impromptu
   - sleight of hand

@@ -1,5 +1,6 @@
 ---
 title: The royal acrobatics
+date: 2025-07-04
 tags:
   - impromptu
   - 52 cards

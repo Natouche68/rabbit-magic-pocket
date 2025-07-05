@@ -1,5 +1,6 @@
 ---
 title: Pair colors
+date: 2025-06-27
 tags:
   - with setup
   - mathematical

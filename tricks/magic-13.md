@@ -1,5 +1,6 @@
 ---
 title: Magic 13
+date: 2025-06-19
 tags:
   - impromptu
   - 52 cards

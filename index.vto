@@ -2,7 +2,7 @@
 layout: base.vto
 ---
 
-{{ set tricks = search.pages("tricks") }}
+{{ set tricks = search.pages("tricks", "date=desc") }}
 
 <div class="flex flex-col items-center gap-2">
   <img src="/static/logo.png" alt="" class="size-28" />

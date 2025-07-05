@@ -1,5 +1,6 @@
 ---
 title: Pair the pairs
+date: 2025-06-26
 tags:
   - with setup
   - mathematical

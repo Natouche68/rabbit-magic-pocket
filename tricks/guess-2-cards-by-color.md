@@ -1,5 +1,6 @@
 ---
 title: Guess 2 cards by their colors
+date: 2025-06-15
 tags:
   - with setup
 ---

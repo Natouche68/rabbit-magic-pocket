@@ -1,5 +1,6 @@
 ---
 title: Count from 10
+date: 2025-07-01
 tags:
   - impromptu
   - 52 cards

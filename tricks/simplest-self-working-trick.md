@@ -1,5 +1,6 @@
 ---
 title: Simplest self-working trick ever
+date: 2025-06-09
 tags:
   - impromptu
   - mathematical

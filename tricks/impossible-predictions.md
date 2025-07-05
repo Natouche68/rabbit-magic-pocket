@@ -1,5 +1,6 @@
 ---
 title: Impossible predictions
+date: 2025-06-10
 tags:
   - with setup
   - 52 cards

@@ -1,5 +1,6 @@
 ---
 title: Guess in the royal family
+date: 2025-06-29
 tags:
   - with setup
 ---

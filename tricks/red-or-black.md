@@ -1,5 +1,6 @@
 ---
 title: Red or black ?
+date: 2025-07-03
 tags:
   - impromptu
 ---

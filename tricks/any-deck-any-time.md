@@ -1,5 +1,6 @@
 ---
 title: Any deck, any time
+date: 2025-07-05
 tags:
   - impromptu
   - sleight of hand

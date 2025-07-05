@@ -1,5 +1,6 @@
 ---
 title: Any card any number
+date: 2025-06-20
 tags:
   - impromptu
   - 52 cards

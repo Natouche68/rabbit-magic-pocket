@@ -1,5 +1,6 @@
 ---
 title: Spectator magician
+date: 2025-06-21
 tags:
   - impromptu
   - mathematical

@@ -1,5 +1,6 @@
 ---
 title: Spectator's card trick
+date: 2025-06-22
 tags:
   - impromptu
   - mathematical

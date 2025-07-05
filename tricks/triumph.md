@@ -1,5 +1,6 @@
 ---
 title: Triumph
+date: 2025-07-02
 tags:
   - impromptu
   - 52 cards

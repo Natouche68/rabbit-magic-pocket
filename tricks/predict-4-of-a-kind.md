@@ -1,5 +1,6 @@
 ---
 title: Predict 4 of a kind
+date: 2025-06-11
 tags:
   - with setup
   - 52 cards

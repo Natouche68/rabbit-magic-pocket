@@ -1,5 +1,6 @@
 ---
 title: Predict from color and value
+date: 2025-06-16
 tags:
   - impromptu
   - sleight of hand

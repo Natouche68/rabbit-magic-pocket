@@ -1,5 +1,6 @@
 ---
 title: Read the spectator's mind
+date: 2025-06-25
 tags:
   - impromptu
   - 52 cards

@@ -1,5 +1,6 @@
 ---
 title: Designed for Laughter
+date: 2025-06-28
 tags:
   - impromptu
   - 52 cards
