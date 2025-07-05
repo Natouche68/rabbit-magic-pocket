@@ -5,27 +5,24 @@ tags:
   - 52 cards
 ---
 
-Ce tour nécessite un jeu de **52** cartes, sans joker, que le spectateur peut
-mélanger.
+This trick needs **52** cards, without joker, which the spectator can shuffle.
 
-Une fois que le spectateur a mélangé le jeu autant qu'il veut, mélangez le une
-dernière fois en faisant un _riffle shuffle_. Faîtes attention, en remettant les
-cartes ensemble, à regarder la carte au-dessus du jeu et à la mémoriser. Ce sera
-votre carte repère.
+Once the spectator shuffled the deck, shuffle it one last time with a riffle
+shuffle. While you're squaring the deck, look at the top card and remember it :
+this is your key-card.
 
-Puis, vous pouvez vous retournez et fermer les yeux. Demandez au spectateur de
-choisir une carte parmi le mileu du jeu, qu'il peut prendre et mémoriser. Il
-peut ensuite couper le jeu, et retourner la partie qu'il vient de prendre. Il
-peut ensuite poser sa carte face visible sur le dessus, et effectuer un _riffle
-shuffle_. Il peut enfin couper le jeu autant qu'il veut, et le retourner s'il le
-souhaite.
+Next, close your eyes. Ask the spectator to choose a card in the middle of the
+deck, which they can memorize. They can then cut the deck, and flip the top
+half. They now have to put their card face-up on this half, and riffle shuffle
+the whole thing back together. Finally, they can cut the deck and turn it over
+if they want to.
 
-Vous pouvez alors vous retourner. Pendant toute la suite du tout, faîtes
-semblant de lire les pensées du spectateur.
+You can now open your eyes. During the rest of the trick, give the impression
+you're reading the spectator's mind.
 
-Etalez le jeu sur la table et cherchez votre carte repère. Si vous la voyez,
-vous êtes du bon côté, sinon, retournez le jeu. La carte du spectateur est la
-première carte face visible en dessous de votre carte repère.
+Spred the deck and look for your key card. If you see it, you're on the right
+side, otherwise, flip the deck. The spectator's card is the first face-up card
+below your key-card.
 
-Eliminez progressivement toutes les cartes jusqu'à arriver à la carte du
-spectateur.
+Gradually eliminate chunk of cards until you arrive at the spectator's selected
+card, which you can finally slowly reveal.
