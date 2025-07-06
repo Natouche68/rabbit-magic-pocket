@@ -7,9 +7,26 @@
     <title>Rabbits' Magic Pocket</title>
   </head>
   <body
-    class="pt-8 px-8 w-full md:mx-auto md:w-3/4 lg:w-2/3 bg-white text-black font-sans container"
+    class="
+      min-h-screen
+      flex
+      flex-col
+      justify-between
+      pt-8
+      px-8
+      w-full
+      md:mx-auto
+      md:w-3/4
+      lg:w-2/3
+      bg-white
+      text-black
+      font-sans
+      container
+    "
   >
-    {{ content }}
+    <div>
+      {{ content }}
+    </div>
 
     <footer class="pt-6 flex flex-col items-center gap-2">
       <div
