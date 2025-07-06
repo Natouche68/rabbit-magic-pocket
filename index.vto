@@ -15,10 +15,19 @@ layout: base.vto
   Card tricks for everyone !
 </p>
 
-<div class="flex flex-row justify-between items-center">
-  <h2 class="font-title text-3xl tracking-wide">
+<div class="flex flex-row justify-between items-center gap-2">
+  <h2 class="w-full font-title text-3xl tracking-wide">
     Tricks
   </h2>
+  <a
+    href="/search"
+    class="block p-2 aspect-square bg-gray rounded cursor-pointer"
+  >
+    <img
+      src='{{ "magnifying-glass:bold" |> icon("phosphor") }}'
+      class="size-8"
+    />
+  </a>
   {{ await comp.RandomButton({ links: tricks.map((t) => t.url) }) }}
 </div>
 
