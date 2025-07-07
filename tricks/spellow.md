@@ -26,3 +26,9 @@ They can cut to your prediction, and look at it. They'll (maybe) want to look at
 the next card, which is not their's. Put that card and the prediction on the
 side. Because of this fail, tell them to spell "`THIS MUST BE IT`" by dealing
 out cards. The last dealt card will be the spectator's selected card.
+
+> [!note]
+>
+> If you speak another language, either write something on the prediction that
+> is 12 letters long, or remember a different key card at the position
+> corresponding to the number of letters in your prediction.
