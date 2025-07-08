@@ -25,7 +25,7 @@ So the 1st, 3rd, 5th, ... cards should be up, and the 2nd, 4th, 6th, cards
 should be down. Now put the bottom cards on top of the packet. Repeat this
 another time, while asking the spectators to note where their cards are.
 
-You can now take back the deck, remove the joker, and cut the deck where at that
+You can now take back the deck, remove the joker, and cut the deck at that
 location. Divide the deck into 2 piles, without dealing cards one by one !
 
 Ask the spectators to deal cards next to each pile, while counting, and stop
